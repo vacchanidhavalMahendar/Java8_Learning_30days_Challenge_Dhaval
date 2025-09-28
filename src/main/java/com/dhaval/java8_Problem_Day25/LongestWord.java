@@ -12,7 +12,7 @@ public class LongestWord {
     public static void main(String[] args){
 
 
-        List<String> words = Arrays.asList("apple","cherry","banana","figs","apple");
+        List<String> words = Arrays.asList("apple","cherryss","banana","figs","apple");
 
         //Find longest word using strea
 
